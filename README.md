@@ -12,6 +12,8 @@
   </article>
  </body> 
    <p>CHICAGO (CBS) -- Authorities said 22-year-old Robert "Bobby" E. Crimo III, the "person of interest" in the deadly Highland Park July 4th mass shooting is now in police custody. Highland Park mayor Nancy Rotering said charges are likely to be filed later Tuesday. 
+   
+   ![gbnm,.](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYwtgvcnNKkULBeNIBkdVjNWMimtbJHfxiPA&usqp=CAU)
 
 The high-powered rife used in the shooting was purchased legally, the mayor said. Crimo fired more than 70 rounds during the assault, authorities said. 
 
