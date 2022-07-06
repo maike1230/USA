@@ -1,5 +1,16 @@
 # USA
 <h1>USA news</h1>
+</head> 
+ <body>
+  <header>
+    <h1>НОВАСТИ</h1>
+  </header>
+  <nav><a href="https://maike1230.github.io/Russiannews/"><</a> | <a href="https://maike1230.github.io/Russiannews/">РАССИЯ</a> |
+       <a href="https://maike1230.github.io/kyrgyzystan/">КЫРГЫЗЫСТАН</a> | <a href="https">АМЕРИКА</a></nav>
+  <article>
+    <h2>Добро пожаловать!</h2>
+  </article>
+ </body> 
    <p>CHICAGO (CBS) -- Authorities said 22-year-old Robert "Bobby" E. Crimo III, the "person of interest" in the deadly Highland Park July 4th mass shooting is now in police custody. Highland Park mayor Nancy Rotering said charges are likely to be filed later Tuesday. 
 
 The high-powered rife used in the shooting was purchased legally, the mayor said. Crimo fired more than 70 rounds during the assault, authorities said. 
