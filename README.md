@@ -34,3 +34,5 @@ Eight of the nine hospitalized patients suffered gunshot wounds.
 Of the 39 total patients treated by the system, 28 patients have been treated and discharged. One patient, an 8-year-old boy, was transported to the University of Chicago Comer Children's Hospital. The hospital said Tuesday the child was in critical condition.
 
 One patient died with receiving critical care in the Highland Park Hospital Emergency Department.</p>
+
+<img src="https://img5.eadaily.com/r650x400/o/ca3/94971c433b0b6eda0bdb7328c28c8.jpeg">
